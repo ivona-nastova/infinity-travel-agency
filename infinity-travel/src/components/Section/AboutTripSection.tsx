@@ -79,7 +79,7 @@ const AboutTripSection = () => {
 
         <Image
           className="w-full lg:w-1/2"
-          src="/images/Tailor-made.png"
+          src="/images/tailor-made.png"
           width={528}
           height={315}
           alt="Tailor Made"

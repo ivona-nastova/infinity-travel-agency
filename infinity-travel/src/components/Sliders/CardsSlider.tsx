@@ -41,8 +41,6 @@ export default function CardsSlider({ arrangements }: Props) {
           totalSlides={arrangementsLength}
           visibleSlides={4}
           step={1}
-          dragEnabled={false}
-          touchEnabled={false}
         >
           <div className="relative flex">
             <ButtonBack
