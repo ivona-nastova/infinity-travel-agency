@@ -88,7 +88,7 @@ export default function CardsSlider({ arrangements }: Props) {
 
       {arrangementsLength === 0 && (
         <p className="text-center sm:text-20">
-          Нема достапни аранжмани во избраниот регион.
+          Во моментов нема достапни аранжмани.
         </p>
       )}
     </>

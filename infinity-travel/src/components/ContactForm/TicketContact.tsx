@@ -56,11 +56,11 @@ const TicketContact = () => {
   return (
     <>
       <div
-        className={`bg-gray-100 px-5 py-10 w-1/2 mx-auto mb-12 ${
+        className={`bg-gray-100 px-5 py-10 w-4/5 sm:w-1/2 mx-auto mb-12 ${
           openContactForm ? "block" : "hidden"
         }`}
       >
-        <h3 className="text-26">Податоци за контакт:</h3>
+        <h3 className="text-26 mb-3">Податоци за контакт:</h3>
         <form className="flex flex-wrap" onSubmit={submitContactForm}>
           <div className="flex flex-col w-full md:w-1/2 pr-3 mb-5">
             <label htmlFor="name">Име</label>

@@ -122,8 +122,6 @@ input:focus {
   }
 }
 
-
-
 @media (max-width: 425px) {
   .offer-card {
     width: 100%;

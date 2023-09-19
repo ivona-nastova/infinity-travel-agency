@@ -50,7 +50,11 @@ const PriceFilter = () => {
 
       {toggle && (
         <>
-          <ReactSlider
+        <div className="flex justify-between text-gray-600">
+          <span>{priceValues[0]}</span>
+          <span>{priceValues[1]}</span>
+        </div>
+           <ReactSlider
             className="horizontal-slider"
             thumbClassName="example-thumb"
             trackClassName="example-track"
@@ -61,7 +65,7 @@ const PriceFilter = () => {
             max={300}
             value={priceValues}
             onChange={filterByPrice}
-          />
+          /> 
         </>
       )}
     </div>

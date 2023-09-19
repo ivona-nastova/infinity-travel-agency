@@ -27,7 +27,7 @@ const Filters = () => {
         <SearchFilter />
         <span className="ml-2 bg-orange text-white rounded-lg mt-6 p-2 text-24">
           <BiFilterAlt onClick={() => setOpenFilters(!openFilters)} />
-        </span>{" "}
+        </span>
       </div>
       {openFilters && <MobileFilters />}
     </>
