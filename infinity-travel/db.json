@@ -1,0 +1,1826 @@
+{
+  "arrangements": [
+    {
+      "id": 1,
+      "name": "Villa Stavros",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Грција",
+        "region": "Касандра"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-01.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": true,
+      "isPublished": true,
+      "priceForNights": 7,
+      "rating": 4,
+      "prices": {
+        "prices": [68, 94, 120, 150, 130],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-07-16T22:00:00.000Z","2023-07-24T22:00:00.000Z","2023-08-10T22:00:00.000Z", "2023-08-21T22:00:00.000Z","2023-08-30T22:00:00.000Z" ],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 2,
+      "name": "Porto Carras",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+
+      "location": {
+        "country": "Грција",
+        "region": "Ситонија"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-02.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 7,
+      "rating": 3,
+      "prices": {
+        "prices": [240],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 3,
+      "name": "Villa Afroditi",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+
+      "location": {
+        "country": "Грција",
+        "region": "Лефкада"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-03.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 7,
+      "rating": 5,
+      "prices": {
+        "prices": [300],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 4,
+      "name": "Villa Nama",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+
+      "location": {
+        "country": "Грција",
+        "region": "Тасос"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-01.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": true,
+      "isPublished": true,
+      "priceForNights": 7,
+      "rating": 3,
+      "prices": {
+        "prices": [220],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 5,
+      "name": "Villa Spanos",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+
+      "location": {
+        "country": "Грција",
+        "region": "Касандра"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-02.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 7,
+      "rating": 3,
+      "prices": {
+        "prices": [220],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 6,
+      "name": "Villa Petridis",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+
+      "location": {
+        "country": "Грција",
+        "region": "Касандра"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-03.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 7,
+      "rating": 3,
+      "prices": {
+        "prices": [190],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 7,
+      "name": "Blue Lagoon",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Грција",
+        "region": "Ситонија"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-01.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 5,
+      "prices": {
+        "prices": [200],
+        "lastMinutePrices": [200]
+      },
+
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 8,
+      "name": "Villa Afrodite",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Грција",
+        "region": "Тасос"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-02.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 2,
+      "prices": {
+        "prices": [280],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 9,
+      "name": "Dionysos",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Грција",
+        "region": "Касандра"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-03.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": {
+        "prices": [290],
+        "lastMinutePrices": [200]
+      },
+
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 10,
+      "name": "Hotel Atrium",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Грција",
+        "region": "Касандра"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-01.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 4,
+      "prices": {
+        "prices": [300],
+        "lastMinutePrices": [200]
+      },
+
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 11,
+      "name": "Hotel Tropicana",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Грција",
+        "region": "Лефкада"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-02.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 4,
+      "prices": {
+        "prices": [220],
+        "lastMinutePrices": [200]
+      },
+
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 12,
+      "name": "Hotel Olga",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Грција",
+        "region": "Тасос"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-03.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": {
+        "prices": [290],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 13,
+      "name": "Villa White Lake",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Македонија",
+        "region": "Охрид"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-04.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": {
+        "prices": [440],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-04-18T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 14,
+      "name": "Villa La Munte",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Македонија",
+        "region": "Крушево"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-05.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": {
+        "prices": [100],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 15,
+      "name": "Villa Lake",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Македонија",
+        "region": "Берово"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-10.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 5,
+      "prices": {
+        "prices": [190],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 16,
+      "name": "Sindy Wooden",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Македонија",
+        "region": "Маврово"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-06.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 4,
+      "prices": {
+        "prices": [200],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 17,
+      "name": "M & D Apartment",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+      "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": {
+        "country": "Македонија",
+        "region": "Струга"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-04.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": {
+        "prices": [230],
+        "lastMinutePrices": [200]
+      },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 18,
+      "name": "Ineks Gorica",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Охрид" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-05.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 5,
+      "prices": { 
+        "prices": [290], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 19,
+      "name": "Hotel & Spa Panorama",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Крушево" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-06.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 4,
+      "prices": { 
+        "prices": [310], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 20,
+      "name": "Sent Moric Mavrovo",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Маврово" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-10.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [330], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 21,
+      "name": "Hotel Park Lakeside",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Охрид" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-04.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 4,
+      "prices": { 
+        "prices": [290], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 22,
+      "name": "Hotel Drim",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Струга" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-05.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 5,
+      "prices": { 
+        "prices": [260], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"]
+    },
+    {
+      "id": 23,
+      "name": "Sun Siyam Iru Fushi",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Малдиви",
+       "region": "Мале" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-11.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 5,
+      "prices": { 
+        "prices": [260], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"],
+      "exoticDestination":true
+    },
+    {
+      "id": 24,
+      "name": "Villas Princesa",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Доминикана",
+       "region": "Пунта Кана" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-12.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [420], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"],
+      "exoticDestination":true
+    },
+    {
+      "id": 25,
+      "name": "Casa de Oscar",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Куба",
+       "region": "Хавана" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-13.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 4,
+      "prices": { 
+        "prices": [400], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"],
+      "exoticDestination":true
+    },
+    {
+      "id": 26,
+      "name": "Atlantis The Royal",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Куба",
+       "region": "Хавана" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-14.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [420], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"],
+      "exoticDestination":true
+    },
+    {
+      "id": 27,
+      "name": "Jumeirah Beach Hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Дубаи",
+       "region": "Јумеирах плажа" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-11.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [390], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Hotel",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"],
+      "exoticDestination":true
+    },
+    {
+      "id": 28,
+      "name": "Constance Ephelia",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Сејшели",
+       "region": "Јумеирах плажа" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-12.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [300], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Reserved"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Apartment",
+      "miscellanies": ["70м од плажа", "7 ноќевања/наем соба"],
+      "exoticDestination":true
+    },
+    {
+      "id": 29,
+      "name": "Возење АТВ",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+      "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Охрид" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-07.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [100], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Izlet"
+    },
+    {
+      "id": 30,
+      "name": "Дегустација на вино",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+      "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Охрид" 
+      },
+      "coverPhoto":"/images/arrangments/arrangment-08.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [120], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Izlet"
+    },
+    {
+      "id": 31,
+      "name": "Коњички клуб",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+      "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Охрид"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-09.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [90], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Izlet"
+    },
+    {
+      "id": 32,
+      "name": "Летање со параглајдер",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+      "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Крушево"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-01.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [160], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Izlet"
+    },
+    {
+      "id": 33,
+      "name": "Нуркање во Градиште",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus. Repellat nostrum excepturi provident quasi voluptate placeat consequuntur blanditiis, maiores similique amet voluptatibus quaerat aliquid fuga, mollitia ipsum inventore. Harum odit illo eum odio blanditiis sequi quibusdam expedita ipsum.",
+      "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo. Officiis natus quia quae ratione delectus.",
+    "transportDescription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores iure consequuntur reiciendis beatae maxime similique maiores tenetur ipsum incidunt sit veniam, nihil eum hic nulla odio possimus debitis? Accusantium aut minima eos voluptatum possimus dolorem vel facere suscipit excepturi. Necessitatibus in praesentium aperiam quia nesciunt amet enim cum voluptas neque explicabo inventore molestias quidem maiores error quae, quos dolorum quam vitae dignissimos ipsam nemo.",
+      "location": { 
+        "country": "Македонија",
+       "region": "Охрид"
+      },
+      "coverPhoto":"/images/arrangments/arrangment-08.png",
+      "gallery": [
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-15.png",
+          "url": "/images/arrangments/arrangment-15.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-16.png",
+          "url": "/images/arrangments/arrangment-16.png"
+        },
+        {
+          "description": "Mollit amet aliquip esse irure.",
+          "thumbnail": "/images/arrangments/arrangment-17.png",
+          "url": "/images/arrangments/arrangment-17.png"
+        }
+      ],
+      "isLastMinute": false,
+      "isPublished": true,
+      "priceForNights": 1,
+      "rating": 3,
+      "prices": { 
+        "prices": [80], 
+      "lastMinutePrices": [200]
+     },
+      "state": ["Free"],
+      "availabilityDates": ["2023-08-16T22:00:00.000Z"],
+      "type": "Izlet"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "id": 1000,
+      "title": "Lorem Ipsum",
+      "rating": 4,
+      "image": "/images/testimonial-01.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "arrangement": "Marriott Hotel"
+    },
+    {
+      "id": 2000,
+      "title": "Lorem Ipsum",
+      "rating": 3,
+      "image": "/images/testimonial-02.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "arrangement": "Holiday Inn"
+    },
+    {
+      "id": 3000,
+      "title": "Lorem Ipsum",
+      "rating": 5,
+      "image": "/images/testimonial-03.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "arrangement": "UTMS"
+    }
+  ],
+
+  "moments": [
+    {
+      "url": "/images/moments/moment-01.png",
+      "thumbnail": "/images/moments/moment-01.png",
+      "location": {
+        "country": "Italy",
+        "city":"Venice"    
+      } 
+    },
+    {
+      "url": "/images/moments/moment-02.png",
+      "thumbnail": "/images/moments/moment-02.png",
+      "location": {
+        "country": "Turkey",
+        "city": "Istanbul"
+      }
+    },
+    {
+      "url": "/images/moments/moment-03.png",
+      "thumbnail": "/images/moments/moment-03.png",
+      "location": {
+        "country": "Italy",
+        "city": "Venice"
+      }
+    },
+    {
+      "url": "/images/moments/moment-04.png",
+      "thumbnail": "/images/moments/moment-04.png",
+      "location": {
+        "country": "Italy",
+        "city": "Rome"
+      }
+    },
+    {
+      "url": "/images/moments/moment-05.png",
+      "thumbnail": "/images/moments/moment-05.png",
+      "location": {
+        "country": "Italy",
+        "city": "Venice"
+      }
+    },
+    {
+      "url": "/images/moments/moment-06.png",
+      "thumbnail": "/images/moments/moment-06.png",
+      "location": {
+        "country": "England",
+        "city": "London"
+      }
+    },
+    {
+      "url": "/images/moments/moment-07.png",
+      "thumbnail": "/images/moments/moment-07.png",
+      "location": {
+        "country": "England",
+        "city": "London"
+      }
+    },
+    {
+      "url": "/images/moments/moment-08.png",
+      "thumbnail": "/images/moments/moment-08.png",
+      "location": {
+        "country": "Turkey",
+        "city": "Cappadocia"
+      }
+    },
+    {
+      "url": "/images/moments/moment-09.png",
+      "thumbnail": "/images/moments/moment-09.png",
+      "location": {
+        "country": "Spain",
+        "city": "Málaga"
+      }
+    },
+    {
+      "url": "/images/moments/moment-10.png",
+      "thumbnail": "/images/moments/moment-10.png",
+      "location": {
+        "country": "Italy",
+        "city":"Bolzano"
+      }
+    },
+    {
+      "url": "/images/moments/moment-11.png",
+      "thumbnail": "/images/moments/moment-11.png",
+      "location": {
+        "country": "France",
+        "city": "Honfleur"
+      }
+    },
+    {
+      "url": "/images/moments/moment-12.png",
+      "thumbnail": "/images/moments/moment-12.png",
+      "location": {
+        "country": "Italy",
+        "city":"Trentino"
+      }
+    },
+    {
+      "url": "/images/moments/moment-13.png",
+      "thumbnail": "/images/moments/moment-13.png",
+      "location": {
+        "country": "Italy",
+        "city":"Bolzano"
+      }
+    },
+    {
+      "url": "/images/moments/moment-14.png",
+      "thumbnail": "/images/moments/moment-14.png",
+      "location": {
+        "country": "Turkey",
+        "city": "Ayder-Rize"
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  font-weight: bold;
+  color: #ffcc16;
+}
+
+#live-chat {
+  bottom: 16px;
+  right: 55px;
+}
+
+.h-60vh {
+  min-height: 60vh;
+}
+
+.container-fluid {
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-sm {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  border-top: 1px solid #667080;
+}
+
+.bg-aboutUs {
+  min-height: 80vh;
+}
+
+.moment-card {
+  width: 14.285%;
+}
+
+.w-35 {
+  width: 37%;
+}
+
+input:focus {
+  outline: transparent;
+}
+
+.horizontal-slider {
+  margin-top: 10px;
+  width: 100%;
+  max-width: 500px;
+  height: 30px;
+}
+
+.horizontal-slider .example-track {
+  height: 5px;
+  border-radius: 5px;
+}
+
+.example-track.example-track-0 {
+  background-color: #21b0b7;
+}
+
+.example-track.example-track-1 {
+  background-color: #21b0b7;
+}
+
+.horizontal-slider .example-thumb {
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: #ffcc16;
+}
+
+.react-datepicker,
+.react-datepicker__header {
+  background-color: #21b0b7 !important;
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+.react-datepicker {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px !important;
+}
+
+.react-datepicker__current-month,
+.react-datepicker__day {
+  color: #ffff !important;
+}
+
+.react-datepicker__day:focus {
+  border-radius: 50% !important;
+}
+
+.react-datepicker__day--selected {
+  background-color: #ffcc16 !important;
+  border-radius: 50% !important;
+}
+
+@media (max-width: 950px) {
+  .moment-card {
+    width: 25%;
+  }
+}
+
+@media (max-width: 640px) {
+  .moment-card {
+    width: 50%;
+  }
+}
+
+@media (min-width: 640px) {
+  #prevBtn{
+  left:26.5%;
+  }
+
+  #nextBtn{
+  right:24.3%;
+  }
+}
+
+
+
+@media (max-width: 425px) {
+  .offer-card {
+    width: 100%;
+  }
+  #live-chat {
+    right: 40px;
+    bottom: 61px;
+  }
+}
+
